@@ -46,9 +46,8 @@ I’m a **Data Analyst** passionate about turning raw data into meaningful insig
 
 ## 🌐 Connect With Me  
 
-- 💼 LinkedIn: https://www.linkedin.com/in/your-link  
-- 📧 Email: yourname@email.com  
-- 🌍 Portfolio: (optional)
+- 💼 LinkedIn: https://www.linkedin.com/in/krushnaaher76/  
+- 🌍 Portfolio: (Processing)
 
 ---
 
