@@ -20,6 +20,7 @@ I’m a **Data Analyst** passionate about turning raw data into meaningful insig
 - Microsoft Excel (Advanced)  
 - Power BI (DAX, Data Modeling, Dashboards)  
 - Python (Pandas, NumPy – basics)
+- Html & css(basics)
   
 ### Data Visualization  
 - Power BI  
